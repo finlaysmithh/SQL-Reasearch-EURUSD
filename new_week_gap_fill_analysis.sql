@@ -1,3 +1,5 @@
+![Language: SQL](https://img.shields.io/badge/Language-SQL-blue)
+
 -- ====================================================
 -- Permanent New Week Opening Gap Fill Analysis for 20+ Pip Gaps (4-Week Check)
 -- ====================================================
