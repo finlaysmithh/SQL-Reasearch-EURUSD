@@ -1,10 +1,5 @@
 EURUSD NEW WEEK OPENING GAP RESEARCH
 
-![Language: SQL](https://img.shields.io/badge/Language-SQL-blue)
-
-
-
-
 
 
 for week 1 the percentage days of the week which filled the new week opening gap
