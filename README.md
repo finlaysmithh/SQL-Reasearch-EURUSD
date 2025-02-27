@@ -3,7 +3,4 @@
 
 
 
-Total new week gaps above 20 pips : gap candidates: 166
-Filled in week 1: 101 gaps (~60.8% filled in the first week)
-Overall filled (by week 4): 115 gaps (~69.3% filled overall)
-Overall not filled: About 30.7% remain unfilled after four weeks
+![Image 27-02-2025 at 03 18](https://github.com/user-attachments/assets/0c7478b5-2283-4ebe-858b-524fc73987b6)
