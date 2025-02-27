@@ -12,3 +12,10 @@ The remaining filled gaps are addressed in subsequent weeks. Approximately 10–
 for week 1 the percentage days of the week which filled the new week opening gap
 
 ![Image 27-02-2025 at 12 09](https://github.com/user-attachments/assets/08088738-8a17-4863-8b69-67e56d9c07ac)
+
+
+
+
+This shows for a bullish week the percentage of times that day of the week was closed above the day before. And for a bearish week the perceentage times the next day went lower than the day before.
+
+![Image 27-02-2025 at 12 49](https://github.com/user-attachments/assets/e43fba13-0167-47b4-a973-28bb682e55c8)
